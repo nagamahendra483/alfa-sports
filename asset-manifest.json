@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alfa-sports/static/css/main.073c9b0a.css",
+    "main.js": "/alfa-sports/static/js/main.af3fe21a.js",
+    "static/js/787.727759b8.chunk.js": "/alfa-sports/static/js/787.727759b8.chunk.js",
+    "static/media/logo.svg": "/alfa-sports/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alfa-sports/index.html",
+    "main.073c9b0a.css.map": "/alfa-sports/static/css/main.073c9b0a.css.map",
+    "main.af3fe21a.js.map": "/alfa-sports/static/js/main.af3fe21a.js.map",
+    "787.727759b8.chunk.js.map": "/alfa-sports/static/js/787.727759b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af3fe21a.js"
+  ]
+}
